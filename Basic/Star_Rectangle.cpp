@@ -20,3 +20,11 @@ int main()
 	
 	return 0;
 }
+/* Sample Output
+Please enter number to print pattern
+4
+****
+****
+****
+****
+*/
