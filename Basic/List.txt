@@ -1,1 +1,17 @@
-Pattern-1
+1. Star_Rectangle
+****
+****
+****
+****
+Path: github.com/srg3006/Patterns/blob/master/Basic/Star_Rectangle.cpp
+
+2.Letter_Rectangle
+
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+
+Path: github.com/srg3006/Patterns/blob/master/Basic/Letter_Rectangle.cpp
+
