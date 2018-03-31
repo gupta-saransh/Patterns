@@ -23,10 +23,10 @@ int main()
 
 /* Sample Output
 Please enter number to print pattern
-5
-12345
-12345
-12345
-12345
-12345
+E
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
 */
