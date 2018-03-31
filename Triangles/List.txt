@@ -1,0 +1,9 @@
+1.Num_Triangles
+
+1
+12
+123
+1234
+12345
+
+Path: github.com/srg3006/Patterns/blob/master/Triangles/Num_Triangle.cpp
