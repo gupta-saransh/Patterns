@@ -15,3 +15,24 @@ ABCDE
 
 Path: github.com/srg3006/Patterns/blob/master/Basic/Letter_Rectangle.cpp
 
+3.Letter_Rectangle_2
+
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
+
+Path: github.com/srg3006/Patterns/blob/master/Basic/Letter_Rectangle_2.cpp
+
+4.Num_Rectangle
+
+12345
+12345
+12345
+12345
+12345
+
+Path: github.com/srg3006/Patterns/blob/master/Basic/Num_Rectangle.cpp
+
+
