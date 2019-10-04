@@ -1,2 +1,2 @@
-# Patterns
-This repository contains codes for various patterns in C++
+
+This repository contains codes for various programs written in C++
